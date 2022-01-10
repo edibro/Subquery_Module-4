@@ -1,0 +1,33 @@
+{
+  "data": {
+    "sumRewards": {
+      "nodes": [
+        {
+          "blockheight": 6001338,
+          "id": "12N6Xfb141Eh7xoghR4D4cCTdmpdRWDQsJzVhNtdqxpWh7pQ",
+          "totalReward": "218164596"
+        },
+        {
+          "blockheight": 6001338,
+          "id": "15yjGiYJLCvLduJqAKJEwayumbSiMSpf8vo5yRvq8R5Z4bok",
+          "totalReward": "1236316316"
+        },
+        {
+          "blockheight": 6002622,
+          "id": "13ct73xkP31ZiuL3f5dAWrhX3rfM3WUz4Gb6RdzF9sjy3ero",
+          "totalReward": "0"
+        },
+        {
+          "blockheight": 6002622,
+          "id": "13mc5EzmfeENSuYixZ9xind3tv5eUVLi6Yj438VA9ca1cCA7",
+          "totalReward": "0"
+        },
+        {
+          "blockheight": 6002624,
+          "id": "1286vkgyRFZV8BeLe3CkJzW8wrkf8FLeV4H8Bwo18QaobG6o",
+          "totalReward": "0"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "sumRewards": {
+      "nodes": [
+        {
+          "blockheight": 7000064,
+          "id": "121FXj85TuKfrQM1Pdcjj4ibbJNnfsqCtMsJ24rSvGEdWDdv",
+          "totalReward": "10901386603"
+        },
+        {
+          "blockheight": 7000064,
+          "id": "123MFw5gAkCjcqEhapJ5zon4Ppyp59Rq2kyNQqEHbfwvM4Ni",
+          "totalReward": "1023809925"
+        },
+        {
+          "blockheight": 7000064,
+          "id": "129N6sYY5r9LnfaMY2AG9px9yYyUhN6FERPXKLfirwBrjkJv",
+          "totalReward": "980420660"
+        },
+        {
+          "blockheight": 7000064,
+          "id": "12bDpMZdKaTt1nYbeh3bQ23MtHgcJfiQE2kDNK21RMtZnrbE",
+          "totalReward": "829848987104"
+        }
+      ]
+    }
+  }
+}
